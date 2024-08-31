@@ -50,6 +50,9 @@ Download and unzip the current **main** branch or one of the tags:
 wget https://github.com/jsynowiec/node-typescript-boilerplate/archive/main.zip -O node-typescript-boilerplate.zip
 unzip node-typescript-boilerplate.zip && rm node-typescript-boilerplate.zip
 ```
+### How execute the project - node version 20
+
+![image](https://github.com/user-attachments/assets/d7987122-f7be-483f-ba99-559e7377891f)
 
 ## Available Scripts
 
